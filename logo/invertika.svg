@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -18,7 +19,7 @@
    enable-background="new 0 0 595.28 841.89"
    xml:space="preserve"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="invertika.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
    id="metadata36"><rdf:RDF><cc:Work
@@ -33,9 +34,23 @@
    id="perspective38" />
 	
 	
-</defs><sodipodi:namedview
-   inkscape:window-height="553"
-   inkscape:window-width="1024"
+
+		
+		
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</defs><sodipodi:namedview
+   inkscape:window-height="1025"
+   inkscape:window-width="1920"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0"
    guidetolerance="10.0"
@@ -46,17 +61,28 @@
    pagecolor="#ffffff"
    id="base"
    showgrid="false"
-   inkscape:zoom="0.54876527"
-   inkscape:cx="297.64001"
-   inkscape:cy="420.94501"
-   inkscape:window-x="-4"
-   inkscape:window-y="-4"
-   inkscape:current-layer="Ebene_2_Kopie_Kopie_Kopie_Kopie" />
-<g
-   id="g7">
-		<g
-   id="g9">
-			<circle
+   inkscape:zoom="3.1042851"
+   inkscape:cx="412.14289"
+   inkscape:cy="409.94981"
+   inkscape:window-x="-3"
+   inkscape:window-y="-3"
+   inkscape:current-layer="Ebene_2_Kopie_Kopie_Kopie_Kopie"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   inkscape:window-maximized="1"><sodipodi:guide
+     orientation="0,1"
+     position="354.99316,277.03641"
+     id="guide3017" /><sodipodi:guide
+     orientation="0,1"
+     position="338.56426,558.26057"
+     id="guide3019" /><sodipodi:guide
+     orientation="1,0"
+     position="152.37002,339.20853"
+     id="guide3021" /><sodipodi:guide
+     orientation="1,0"
+     position="431.98351,373.03274"
+     id="guide3023" /></sodipodi:namedview>
+<circle
    sodipodi:ry="28.346001"
    sodipodi:rx="28.346001"
    sodipodi:cy="312.63199"
@@ -64,8 +90,7 @@
    id="circle11"
    r="28.346001"
    cy="312.63199"
-   cx="293.33301" />
-			<circle
+   cx="293.33301" /><circle
    sodipodi:ry="28.347"
    sodipodi:rx="28.347"
    sodipodi:cy="392.159"
@@ -73,8 +98,7 @@
    id="circle13"
    r="28.347"
    cy="392.159"
-   cx="184.304" />
-			<circle
+   cx="184.304" /><circle
    sodipodi:ry="28.347"
    sodipodi:rx="28.347"
    sodipodi:cy="520.284"
@@ -82,8 +106,7 @@
    id="circle15"
    r="28.347"
    cy="520.284"
-   cx="225.75999" />
-			<circle
+   cx="225.75999" /><circle
    sodipodi:ry="28.347"
    sodipodi:rx="28.347"
    sodipodi:cy="520.33002"
@@ -91,8 +114,7 @@
    id="circle17"
    r="28.347"
    cy="520.33002"
-   cx="360.64801" />
-			<circle
+   cx="360.64801" /><circle
    sodipodi:ry="28.347"
    sodipodi:rx="28.347"
    sodipodi:cy="392.07199"
@@ -100,31 +122,28 @@
    id="circle19"
    r="28.347"
    cy="392.07199"
-   cx="402.35999" />
-			<path
+   cx="402.35999" /><path
    id="path21"
-   d="M 293.333,371.139 C 303.59,371.139 313.202,373.877 321.503,378.642 L 369.462,312.632 L 335.761,312.634 C 335.759,336.114 316.722,355.152 293.24,355.154 C 269.759,355.154 250.722,336.117 250.722,312.633 L 218.694,312.633 L 266.213,378.039 C 274.269,373.641 283.508,371.139 293.333,371.139 z" />
-			<path
+   d="m 293.333,371.139 c 10.257,0 19.869,2.738 28.17,7.503 l 47.959,-66.01 -33.701,0.002 c -0.002,23.48 -19.039,42.518 -42.521,42.52 -23.481,0 -42.518,-19.037 -42.518,-42.521 l -32.028,0 47.519,65.406 c 8.056,-4.398 17.295,-6.9 27.12,-6.9 z"
+   inkscape:connector-curvature="0" /><path
    id="path23"
-   d="M 350.025,427.833 C 350.025,431.685 349.637,435.446 348.905,439.081 L 425.747,464.048 L 415.431,432.304 C 393.101,439.558 369.111,427.337 361.855,405.003 C 354.599,382.672 366.822,358.684 389.154,351.426 L 379.771,322.557 L 332.824,387.177 C 343.428,397.478 350.025,411.881 350.025,427.833 z" />
-			<path
+   d="m 350.025,427.833 c 0,3.852 -0.388,7.613 -1.12,11.248 l 76.842,24.967 -10.316,-31.744 c -22.33,7.254 -46.32,-4.967 -53.576,-27.301 -7.256,-22.331 4.967,-46.319 27.299,-53.577 l -9.383,-28.869 -46.947,64.62 c 10.604,10.301 17.201,24.704 17.201,40.656 z"
+   inkscape:connector-curvature="0" /><path
    id="path25"
-   d="M 344.381,452.515 C 336.011,469.794 319.128,482.181 299.182,484.226 L 299.183,564.714 L 326.238,545.056 C 312.435,526.058 316.65,499.464 335.648,485.663 C 354.644,471.86 381.234,476.071 395.037,495.069 L 419.855,477.038 L 344.381,452.515 z" />
-			<path
+   d="m 344.381,452.515 c -8.37,17.279 -25.253,29.666 -45.199,31.711 l 10e-4,80.488 27.055,-19.658 c -13.803,-18.998 -9.588,-45.592 9.41,-59.393 18.996,-13.803 45.586,-9.592 59.389,9.406 l 24.818,-18.031 -75.474,-24.523 z"
+   inkscape:connector-curvature="0" /><path
    id="path27"
-   d="M 241.893,451.663 L 165.75,476.405 L 191.443,495.071 C 205.246,476.073 231.837,471.862 250.834,485.667 C 269.835,499.468 274.045,526.058 260.241,545.056 L 285.01,563.05 L 285.01,483.911 C 265.828,481.089 249.78,468.657 241.893,451.663 z" />
-			<path
+   d="m 241.893,453.663 -76.143,24.742 25.693,18.666 c 13.803,-18.998 40.394,-23.209 59.391,-9.404 19.001,13.801 23.211,40.391 9.407,59.389 l 24.769,17.994 0,-79.139 c -19.182,-2.822 -35.23,-15.254 -43.117,-32.248 z"
+   inkscape:connector-curvature="0" /><path
    id="path29"
-   d="M 236.64,427.833 C 236.64,411.445 243.602,396.689 254.721,386.338 L 207.223,320.966 L 197.326,351.427 C 219.661,358.683 231.882,382.671 224.624,405.003 C 217.369,427.336 193.383,439.559 171.05,432.303 L 161.067,463.024 L 237.596,438.157 C 236.979,434.808 236.64,431.36 236.64,427.833 z" />
-		</g>
-		<circle
-   sodipodi:ry="42.52"
-   sodipodi:rx="42.52"
-   sodipodi:cy="427.83301"
-   sodipodi:cx="293.33301"
-   id="circle31"
-   r="42.52"
+   d="m 236.64,427.833 c 0,-16.388 6.962,-31.144 18.081,-41.495 l -47.498,-65.372 -9.897,30.461 c 22.335,7.256 34.556,31.244 27.298,53.576 -7.255,22.333 -31.241,34.556 -53.574,27.3 l -9.983,30.721 76.529,-24.867 c -0.617,-3.349 -0.956,-6.797 -0.956,-10.324 z"
+   inkscape:connector-curvature="0" /><circle
+   cx="293.33301"
    cy="427.83301"
-   cx="293.33301" />
-	</g>
+   r="42.52"
+   id="circle31"
+   sodipodi:cx="293.33301"
+   sodipodi:cy="427.83301"
+   sodipodi:rx="42.52"
+   sodipodi:ry="42.52" />
 </svg>
